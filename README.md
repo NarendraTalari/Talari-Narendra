@@ -42,14 +42,10 @@
 
 ## 🚀 Featured Projects
 
-- [🔍 Black Friday Sales Analysis](https://github.com/your-username/Black_Friday_Sales_Analysis)  
+- [🔍 Black Friday Sales Analysis](https://github.com/NarendraTalari/Black_Friday_Analysis.git)
   <em>Insightful analysis of customer purchase behavior using Pandas, Matplotlib, and Seaborn.</em>
 
-- [📈 Power BI Dashboard for E-Commerce](https://github.com/your-username/E-Commerce-Analytics)  
-  <em>Interactive dashboard providing business insights using Power BI.</em>
-
-- [💡 Customer Segmentation Using K-Means](https://github.com/your-username/Customer-Segmentation)  
-  <em>Clustering customers based on purchasing patterns to support marketing strategy.</em>
+  
 
 ---
 
